@@ -7,6 +7,7 @@
 **Dataset:** UCI Online Retail
 **Base model:** unsloth/Llama-3.2-1B-Instruct
 **Final Ollama model:** retail-assistant:latest
+
 This repository contains an end-to-end AWS chatbot pipeline:
 
 1. Terraform provisions the VPC, subnets, S3 bucket, security groups, IAM roles, EMR, and EC2 resources.
