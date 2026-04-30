@@ -1,9 +1,12 @@
 # CISC 886 - Cloud-Based Conversational Retail Chatbot
 
-**Student / Group:** TODO: insert name  
-**NetID prefix:** `25DJT3`  
-**AWS Region:** `us-east-1`  
-**Project:** Retail shopping assistant trained from Online Retail transaction data
+**Group:** CISC886-28
+**Members:** Elofy, Mostafa / Ghanem, Mohamed / Hasan, Mohamed
+**AWS resource prefix:** `25DJT3`
+**Region:** `us-east-1`
+**Dataset:** UCI Online Retail
+**Base model:** unsloth/Llama-3.2-1B-Instruct
+**Final Ollama model:** retail-assistant:latest
 
 This repository contains an end-to-end AWS chatbot pipeline:
 
